@@ -1,4 +1,4 @@
-# Todo
+# Todo Website
 How to use -- 1st open Todo then open terminal and write cd todo then write npm i , after installing the nodemodule then enter npm start .
               For backend open Todo then open terminal and write cd server then enter npm i , after installing the dependencies write nodemon index.js
               
