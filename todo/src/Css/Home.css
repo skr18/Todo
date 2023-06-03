@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.im{
+    top: 0px;
+    width: 75px;
+    height: 70px;
+    border-radius: 50px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #4ac3d1;
+    align-items: center;
+}
+.btn1{
+    margin-top: 15px;
+    margin-right: 15px;
+    font-size: 23px;
+    background-color: rgb(110, 220, 234);
+}
+.btn1:hover{
+    background-color: white;
+}
+.btn3{
+    margin-top: 15px;
+    margin-right: 25px;
+    font-size: 30px;
+    width: 100px;
+    background-color: aqua;
+}
+.btn3:hover{
+    background-color: white;
+}
+.info{
+    display: flex;
+    flex-direction: row;
+}
+.welcome{
+    width: 100%;
+    height: 89vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: aqua;
+}
+.title{
+    margin-top: 20px; 
+    font-size: 70px;
+}
+.title2{
+    margin-top: 15px; 
+    font-size: 50px;
+}
